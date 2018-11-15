@@ -1,0 +1,8 @@
+{
+  "timeStep": 0.05,
+  "maxVelocity": 10.0,
+  "maxAcceleration": 5.0,
+  "maxJerk": 2.0,
+  "wheelBase": 0.5,
+  "game": "POWER_UP_2018"
+}
